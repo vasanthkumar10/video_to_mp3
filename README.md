@@ -8,6 +8,8 @@
 5. Minikube
 6. Docker
 7. SMTP
+8. K9s
+9. Kubernetes
 
 
 ### Create JWT token:
